@@ -1,9 +1,13 @@
 # setup-ec2-color
 
 ## Setup
+
 To Run This on Your New EC2 Instance:
-	1.	Copy this script and save it as setup_colors.sh on your new EC2 instance.
-	2.	Give it execute permission:
+```bash
+   1. Clone or Copy this script and save it as setup_colors.sh on your new EC2 instance.
+   2. Give it execute permission:
+   3. Run the script:
+  ```
 
 1. Create a script on your local machine (e.g., setup-ec2-color.sh):
 
