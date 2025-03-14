@@ -8,7 +8,7 @@ To Run This on Your New EC2 Instance:
 1. Create a script on your local machine (e.g., setup-ec2-color.sh):
 
    ```bash
-  	#!/bin/bash
+   #!/bin/bash
    # Set terminal to 256 colors
    echo 'export TERM=xterm-256color' >> ~/.bashrc
    # Enable color support for ls
