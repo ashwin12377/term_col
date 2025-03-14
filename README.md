@@ -34,7 +34,7 @@ To Run This on Your New EC2 Instance:
    ```bash
    ./setup_colors.sh
    ```
-4. Run the script:
+4. Exit and re-login to check:
 
    ```bash
    exit
@@ -45,12 +45,5 @@ To Run This on Your New EC2 Instance:
    ```bash
    echo $TERM   # should return 'xterm-256color'
    ls --color=auto  # should show colored output
-   ```
-
-
-## Manually
-
-```bash
-   
    ```
 
