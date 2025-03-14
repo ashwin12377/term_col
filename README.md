@@ -50,12 +50,7 @@ To Run This on Your New EC2 Instance:
 
 ## Manually
 
-- First create a docker image from Dockerfile
 ```bash
-docker build -t flaskapp .
-```
+   
+   ```
 
-- Now, make sure that you have created a network using following command
-```bash
-docker network create  -d bridge flaskapp-ntwk
-```
